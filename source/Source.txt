@@ -5,3 +5,5 @@
     http://stackoverflow.com/questions/2025282/what-is-the-difference-between-px-dp-dip-and-sp-on-android
 3、android 源码分析
     http://blog.csdn.net/yanbober/article/details/45912661
+4、android 开源项目
+    https://my.oschina.net/zxfxingkong/blog/55604
